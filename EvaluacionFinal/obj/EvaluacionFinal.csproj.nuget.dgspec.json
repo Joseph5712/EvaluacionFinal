@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmm7g\\source\\repos\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj": {}
+    "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmm7g\\source\\repos\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj": {
+    "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmm7g\\source\\repos\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj",
+        "projectUniqueName": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj",
         "projectName": "EvaluacionFinal",
-        "projectPath": "C:\\Users\\jmm7g\\source\\repos\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj",
-        "packagesPath": "C:\\Users\\jmm7g\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmm7g\\source\\repos\\EvaluacionFinal\\EvaluacionFinal\\obj\\",
+        "projectPath": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj",
+        "packagesPath": "C:\\Users\\Latitude 7420\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jmm7g\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Latitude 7420\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

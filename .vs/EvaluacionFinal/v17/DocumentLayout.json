@@ -1,7 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jmm7g\\source\\repos\\EvaluacionFinal\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|c:\\users\\latitude 7420\\desktop\\evaluacionfinal\\evaluacionfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|solutionrelative:evaluacionfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|c:\\users\\latitude 7420\\desktop\\evaluacionfinal\\evaluacionfinal\\controllers\\configuracioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|solutionrelative:evaluacionfinal\\controllers\\configuracioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|c:\\users\\latitude 7420\\desktop\\evaluacionfinal\\evaluacionfinal\\helpers\\usuariohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|solutionrelative:evaluacionfinal\\helpers\\usuariohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|c:\\users\\latitude 7420\\desktop\\evaluacionfinal\\evaluacionfinal\\helpers\\rolhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|solutionrelative:evaluacionfinal\\helpers\\rolhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|c:\\users\\latitude 7420\\desktop\\evaluacionfinal\\evaluacionfinal\\builder\\databaseconfigurationbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|solutionrelative:evaluacionfinal\\builder\\databaseconfigurationbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|c:\\users\\latitude 7420\\desktop\\evaluacionfinal\\evaluacionfinal\\builder\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|solutionrelative:evaluacionfinal\\builder\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "EvaluacionFinal\\appsettings.json",
+              "ToolTip": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\appsettings.json",
+              "RelativeToolTip": "EvaluacionFinal\\appsettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvw8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T02:06:46.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfiguracionController.cs",
+              "DocumentMoniker": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\Controllers\\ConfiguracionController.cs",
+              "RelativeDocumentMoniker": "EvaluacionFinal\\Controllers\\ConfiguracionController.cs",
+              "ToolTip": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\Controllers\\ConfiguracionController.cs",
+              "RelativeToolTip": "EvaluacionFinal\\Controllers\\ConfiguracionController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:05:02.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\Helpers\\UsuarioHelper.cs",
+              "RelativeDocumentMoniker": "EvaluacionFinal\\Helpers\\UsuarioHelper.cs",
+              "ToolTip": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\Helpers\\UsuarioHelper.cs",
+              "RelativeToolTip": "EvaluacionFinal\\Helpers\\UsuarioHelper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:04:34.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RolHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\Helpers\\RolHelper.cs",
+              "RelativeDocumentMoniker": "EvaluacionFinal\\Helpers\\RolHelper.cs",
+              "ToolTip": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\Helpers\\RolHelper.cs",
+              "RelativeToolTip": "EvaluacionFinal\\Helpers\\RolHelper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:04:30.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseConfigurationBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\Builder\\DatabaseConfigurationBuilder.cs",
+              "RelativeDocumentMoniker": "EvaluacionFinal\\Builder\\DatabaseConfigurationBuilder.cs",
+              "ToolTip": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\Builder\\DatabaseConfigurationBuilder.cs",
+              "RelativeToolTip": "EvaluacionFinal\\Builder\\DatabaseConfigurationBuilder.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:04:23.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\Builder\\IBuilder.cs",
+              "RelativeDocumentMoniker": "EvaluacionFinal\\Builder\\IBuilder.cs",
+              "ToolTip": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\Builder\\IBuilder.cs",
+              "RelativeToolTip": "EvaluacionFinal\\Builder\\IBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:04:16.337Z"
             }
           ]
         }
