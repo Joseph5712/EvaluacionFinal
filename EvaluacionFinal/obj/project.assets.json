@@ -2227,11 +2227,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmm7g\\source\\repos\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj",
+      "projectUniqueName": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj",
       "projectName": "EvaluacionFinal",
-      "projectPath": "C:\\Users\\jmm7g\\source\\repos\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj",
+      "projectPath": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj",
       "packagesPath": "C:\\Users\\jmm7g\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmm7g\\source\\repos\\EvaluacionFinal\\EvaluacionFinal\\obj\\",
+      "outputPath": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jmm7g\\AppData\\Roaming\\NuGet\\NuGet.Config",

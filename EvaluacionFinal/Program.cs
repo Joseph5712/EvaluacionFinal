@@ -9,11 +9,14 @@ namespace EvaluacionFinal
             // Cargar cadenas de conexión desde appsettings.json
             builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
 
-            // Agregar configuración de cadenas de conexión
+            // Registrar DatabaseSettings para usarlo en cualquier parte del proyecto
             builder.Services.Configure<DatabaseSettings>(builder.Configuration.GetSection("ConnectionStrings"));
 
             // Registrar servicios de controladores
-            builder.Services.AddControllersWithViews();  // <-- Esto añade los servicios necesarios para los controladores
+            builder.Services.AddControllersWithViews();
+
+            // Habilitar sesiones
+            builder.Services.AddSession();
 
             // Registrar servicios de autorización
             builder.Services.AddAuthorization();
@@ -31,6 +34,9 @@ namespace EvaluacionFinal
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            // Habilitar el middleware de sesión
+            app.UseSession();  // Esto es necesario para poder utilizar la sesión
 
             // Habilitar autorización
             app.UseAuthorization();

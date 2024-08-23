@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jmm7g\\source\\repos\\EvaluacionFinal\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|c:\\users\\jmm7g\\onedrive\\escritorio\\ingenieria software ii\\evaluacionfinal\\evaluacionfinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|solutionrelative:evaluacionfinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|c:\\users\\jmm7g\\onedrive\\escritorio\\ingenieria software ii\\evaluacionfinal\\evaluacionfinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|solutionrelative:evaluacionfinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|c:\\users\\jmm7g\\onedrive\\escritorio\\ingenieria software ii\\evaluacionfinal\\evaluacionfinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|solutionrelative:evaluacionfinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|c:\\users\\jmm7g\\onedrive\\escritorio\\ingenieria software ii\\evaluacionfinal\\evaluacionfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|solutionrelative:evaluacionfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|c:\\users\\jmm7g\\onedrive\\escritorio\\ingenieria software ii\\evaluacionfinal\\evaluacionfinal\\views\\configuracion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|solutionrelative:evaluacionfinal\\views\\configuracion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|c:\\users\\jmm7g\\onedrive\\escritorio\\ingenieria software ii\\evaluacionfinal\\evaluacionfinal\\controllers\\configuracioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|solutionrelative:evaluacionfinal\\controllers\\configuracioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|c:\\users\\jmm7g\\onedrive\\escritorio\\ingenieria software ii\\evaluacionfinal\\evaluacionfinal\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5053CFAF-42C9-4231-8DFE-44BA54CF7561}|EvaluacionFinal\\EvaluacionFinal.csproj|solutionrelative:evaluacionfinal\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EvaluacionFinal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EvaluacionFinal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T03:15:22.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EvaluacionFinal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EvaluacionFinal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T03:12:25.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EvaluacionFinal\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EvaluacionFinal\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T03:10:17.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\Program.cs",
+              "RelativeDocumentMoniker": "EvaluacionFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\Program.cs",
+              "RelativeToolTip": "EvaluacionFinal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:36:54.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\Views\\Configuracion\\Index.cshtml",
+              "RelativeDocumentMoniker": "EvaluacionFinal\\Views\\Configuracion\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\Views\\Configuracion\\Index.cshtml",
+              "RelativeToolTip": "EvaluacionFinal\\Views\\Configuracion\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAE8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T02:22:36.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfiguracionController.cs",
+              "DocumentMoniker": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\Controllers\\ConfiguracionController.cs",
+              "RelativeDocumentMoniker": "EvaluacionFinal\\Controllers\\ConfiguracionController.cs",
+              "ToolTip": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\Controllers\\ConfiguracionController.cs",
+              "RelativeToolTip": "EvaluacionFinal\\Controllers\\ConfiguracionController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:13:38.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\DatabaseSettings.cs",
+              "RelativeDocumentMoniker": "EvaluacionFinal\\DatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\DatabaseSettings.cs",
+              "RelativeToolTip": "EvaluacionFinal\\DatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:13:04.571Z",
+              "EditorCaption": ""
             }
           ]
         }
