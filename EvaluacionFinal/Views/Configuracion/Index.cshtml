@@ -1,39 +1,87 @@
 ﻿@model EvaluacionFinal.DatabaseSettings
 
 @{
-    ViewData["Title"] = "Configuración";
+    ViewData["Title"] = "Configuración de Sesión";
 }
 
-<h1>Configuración de Conexiones</h1>
+<h2>Configuración de Sesión</h2>
 
 <form asp-action="Index" method="post">
     <div class="form-group">
-        <label asp-for="ConexionMSSql" class="control-label">Conexión SQL Server</label>
-        <input asp-for="ConexionMSSql" class="form-control" />
-        <span asp-validation-for="ConexionMSSql" class="text-danger"></span>
+        <label for="motorBaseDatos">Motor de Base de Datos:</label>
+        <select class="form-control" id="motorBaseDatos" name="motorBaseDatos">
+            @if (Model.MotorSeleccionado == "MS SQL Server")
+            {
+                <option value="MS SQL Server" selected>MS SQL Server</option>
+            }
+            else
+            {
+                <option value="MS SQL Server">MS SQL Server</option>
+            }
+
+            @if (Model.MotorSeleccionado == "PostgreSQL")
+            {
+                <option value="PostgreSQL" selected>PostgreSQL</option>
+            }
+            else
+            {
+                <option value="PostgreSQL">PostgreSQL</option>
+            }
+
+            @if (Model.MotorSeleccionado == "MySQL")
+            {
+                <option value="MySQL" selected>MySQL</option>
+            }
+            else
+            {
+                <option value="MySQL">MySQL</option>
+            }
+        </select>
     </div>
+
     <div class="form-group">
-        <label asp-for="ConexionPgSql" class="control-label">Conexión PostgreSQL</label>
-        <input asp-for="ConexionPgSql" class="form-control" />
-        <span asp-validation-for="ConexionPgSql" class="text-danger"></span>
+        <label for="cadenaConexion">Cadenas de conexión:</label>
+        <select class="form-control" id="cadenaConexion" name="cadenaConexion">
+            @if(Model.CadenaSeleccionada == Model.ConexionMSSql)
+            {
+                <option value="@Model.ConexionMSSql" selected>@Model.ConexionMSSql</option>
+            }
+            else
+            {
+                <option value="@Model.ConexionMSSql">@Model.ConexionMSSql</option>
+            }
+
+            @if(Model.CadenaSeleccionada == Model.ConexionPgSql)
+            {
+                <option value="@Model.ConexionPgSql" selected>@Model.ConexionPgSql</option>
+            }
+            else
+            {
+                <option value="@Model.ConexionPgSql">@Model.ConexionPgSql</option>
+            }
+
+            @if(Model.CadenaSeleccionada == Model.ConexionMySql)
+            {
+                <option value="@Model.ConexionMySql" selected>@Model.ConexionMySql</option>
+            }
+            else
+            {
+                <option value="@Model.ConexionMySql">@Model.ConexionMySql</option>
+            }
+        </select>
     </div>
+
     <div class="form-group">
-        <label asp-for="ConexionMySql" class="control-label">Conexión MySQL</label>
-        <input asp-for="ConexionMySql" class="form-control" />
-        <span asp-validation-for="ConexionMySql" class="text-danger"></span>
-    </div>
-    <div class="form-group">
-        <input type="submit" value="Guardar" class="btn btn-primary" />
+        <input type="submit" value="Guardar" class="btn btn-success" />
+        <a asp-action="Index" class="btn btn-secondary">Regresar</a>
     </div>
 </form>
 
 @if (ViewBag.Message != null)
 {
-    <div class="alert alert-success">
+    <div class="alert alert-success mt-3">
         @ViewBag.Message
     </div>
 }
 
-<div>
-    <a asp-controller="Home" asp-action="Index">Regresar al inicio</a>
-</div>
+

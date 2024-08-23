@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj",
         "packagesPath": "C:\\Users\\Latitude 7420\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\obj\\",
+=======
+    "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj",
+        "projectName": "EvaluacionFinal",
+        "projectPath": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj",
+        "packagesPath": "C:\\Users\\jmm7g\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\obj\\",
+>>>>>>> bd29b6fdca0136c1943e911607d9d9727d7bb051
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Latitude 7420\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "KHKIc/V3A+Q=",
   "success": true,
   "projectFilePath": "C:\\Users\\Latitude 7420\\Desktop\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj",
+=======
+  "dgSpecHash": "me7fdbOrjPs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jmm7g\\OneDrive\\Escritorio\\Ingenieria software II\\EvaluacionFinal\\EvaluacionFinal\\EvaluacionFinal.csproj",
+>>>>>>> bd29b6fdca0136c1943e911607d9d9727d7bb051
   "expectedPackageFiles": [
     "C:\\Users\\Latitude 7420\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Latitude 7420\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

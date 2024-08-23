@@ -9,12 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EvaluacionFinal
 build_property.RootNamespace = EvaluacionFinal
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Latitude 7420\Desktop\EvaluacionFinal\EvaluacionFinal\
+=======
+build_property.ProjectDir = C:\Users\jmm7g\OneDrive\Escritorio\Ingenieria software II\EvaluacionFinal\EvaluacionFinal\
+>>>>>>> bd29b6fdca0136c1943e911607d9d9727d7bb051
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = C:\Users\Latitude 7420\Desktop\EvaluacionFinal\EvaluacionFinal
 build_property._RazorSourceGeneratorDebug = 
 
@@ -71,5 +76,63 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Latitude 7420/Desktop/EvaluacionFinal/EvaluacionFinal/Views/Shared/_Layout.cshtml]
+=======
+build_property.MSBuildProjectDirectory = C:\Users\jmm7g\OneDrive\Escritorio\Ingenieria software II\EvaluacionFinal\EvaluacionFinal
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/jmm7g/OneDrive/Escritorio/Ingenieria software II/EvaluacionFinal/EvaluacionFinal/Views/Configuracion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlndXJhY2lvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmm7g/OneDrive/Escritorio/Ingenieria software II/EvaluacionFinal/EvaluacionFinal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmm7g/OneDrive/Escritorio/Ingenieria software II/EvaluacionFinal/EvaluacionFinal/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmm7g/OneDrive/Escritorio/Ingenieria software II/EvaluacionFinal/EvaluacionFinal/Views/Rol/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmm7g/OneDrive/Escritorio/Ingenieria software II/EvaluacionFinal/EvaluacionFinal/Views/Rol/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmm7g/OneDrive/Escritorio/Ingenieria software II/EvaluacionFinal/EvaluacionFinal/Views/Rol/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmm7g/OneDrive/Escritorio/Ingenieria software II/EvaluacionFinal/EvaluacionFinal/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmm7g/OneDrive/Escritorio/Ingenieria software II/EvaluacionFinal/EvaluacionFinal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmm7g/OneDrive/Escritorio/Ingenieria software II/EvaluacionFinal/EvaluacionFinal/Views/Usuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmm7g/OneDrive/Escritorio/Ingenieria software II/EvaluacionFinal/EvaluacionFinal/Views/Usuario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmm7g/OneDrive/Escritorio/Ingenieria software II/EvaluacionFinal/EvaluacionFinal/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmm7g/OneDrive/Escritorio/Ingenieria software II/EvaluacionFinal/EvaluacionFinal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmm7g/OneDrive/Escritorio/Ingenieria software II/EvaluacionFinal/EvaluacionFinal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jmm7g/OneDrive/Escritorio/Ingenieria software II/EvaluacionFinal/EvaluacionFinal/Views/Shared/_Layout.cshtml]
+>>>>>>> bd29b6fdca0136c1943e911607d9d9727d7bb051
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qrf3ksctoz

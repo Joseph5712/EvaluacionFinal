@@ -15,6 +15,14 @@ namespace EvaluacionFinal.Controllers
 
         public IActionResult Index()
         {
+            // Obtener los valores desde la sesión
+            var motorSeleccionado = HttpContext.Session.GetString("MotorSeleccionado") ?? "No seleccionado";
+            var cadenaSeleccionada = HttpContext.Session.GetString("CadenaSeleccionada") ?? "No seleccionada";
+
+            // Pasar los valores a la vista mediante ViewData o ViewBag
+            ViewData["MotorSeleccionado"] = motorSeleccionado;
+            ViewData["CadenaSeleccionada"] = cadenaSeleccionada;
+
             return View();
         }
 
