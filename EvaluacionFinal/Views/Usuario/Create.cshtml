@@ -1,0 +1,42 @@
+﻿@model EvaluacionFinal.Models.UsuarioModel
+
+@{
+    ViewData["Title"] = "Crear Usuario";
+}
+
+<h1>Crear Nuevo Usuario</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="NombreUsuario" class="control-label"></label>
+        <input asp-for="NombreUsuario" class="form-control" />
+        <span asp-validation-for="NombreUsuario" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="NombreCompleto" class="control-label"></label>
+        <input asp-for="NombreCompleto" class="form-control" />
+        <span asp-validation-for="NombreCompleto" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Edad" class="control-label"></label>
+        <input asp-for="Edad" class="form-control" />
+        <span asp-validation-for="Edad" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Correo" class="control-label"></label>
+        <input asp-for="Correo" class="form-control" />
+        <span asp-validation-for="Correo" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="RolID" class="control-label">Rol</label>
+        <input asp-for="RolID" class="form-control" />
+        <span asp-validation-for="RolID" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Crear" class="btn btn-primary" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Regresar a la lista</a>
+</div>

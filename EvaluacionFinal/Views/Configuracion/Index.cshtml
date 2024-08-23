@@ -1,0 +1,39 @@
+﻿@model EvaluacionFinal.DatabaseSettings
+
+@{
+    ViewData["Title"] = "Configuración";
+}
+
+<h1>Configuración de Conexiones</h1>
+
+<form asp-action="Index" method="post">
+    <div class="form-group">
+        <label asp-for="ConexionMSSql" class="control-label">Conexión SQL Server</label>
+        <input asp-for="ConexionMSSql" class="form-control" />
+        <span asp-validation-for="ConexionMSSql" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ConexionPgSql" class="control-label">Conexión PostgreSQL</label>
+        <input asp-for="ConexionPgSql" class="form-control" />
+        <span asp-validation-for="ConexionPgSql" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ConexionMySql" class="control-label">Conexión MySQL</label>
+        <input asp-for="ConexionMySql" class="form-control" />
+        <span asp-validation-for="ConexionMySql" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Guardar" class="btn btn-primary" />
+    </div>
+</form>
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-success">
+        @ViewBag.Message
+    </div>
+}
+
+<div>
+    <a asp-controller="Home" asp-action="Index">Regresar al inicio</a>
+</div>
